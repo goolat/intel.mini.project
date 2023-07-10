@@ -1,19 +1,18 @@
-# intel.mini.project
-
-# Project name
+# AI Model Integration Using openvino_notebooks
 
 * (간략히 전체 프로젝트를 설명하고, 최종 목표가 무엇인지에 대해 기술)
 
 ## Requirement
 
-* (프로젝트를 실행시키기 위한 최소 requirement들에 대해 기술)
-
-```
-* 10th generation Intel® CoreTM processor onwards
-* At least 32GB RAM
-* Ubuntu 22.04
-* Python 3.9
-```
+| Supported Operating System                                 | [Python Version (64-bit)](https://www.python.org/) |
+| :--------------------------------------------------------- | :------------------------------------------------- |
+| Ubuntu 20.04 LTS, 64-bit                                   | 3.7, 3.8, 3.9, 3.10                                |
+| Ubuntu 22.04 LTS, 64-bit                                   | 3.7, 3.8, 3.9, 3.10                                |
+| Red Hat Enterprise Linux 8, 64-bit                         | 3.8, 3.9, 3.10                                     |
+| CentOS 7, 64-bit                                           | 3.7, 3.8, 3.9, 3.10                                |
+| macOS 10.15.x versions or higher                           | 3.7, 3.8, 3.9, 3.10                                |
+| Windows 10, 64-bit Pro, Enterprise or Education editions   | 3.7, 3.8, 3.9, 3.10                                |
+| Windows Server 2016 or higher                              | 3.7, 3.8, 3.9, 3.10                                |
 
 ## Clone code
 
